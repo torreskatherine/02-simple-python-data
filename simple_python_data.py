@@ -4,7 +4,7 @@ def calculate_rectangle_area(height, width):
     return rectangle_area
 
 def calculate_area_of_square(side):
-    ## Todo: update `None` to contain the formula for `squre_area`
+    ## Todo: update `None` to contain the formula for `square_area`
     square_area = None
     return square_area
 
